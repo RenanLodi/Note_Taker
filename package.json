@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "install": "^0.13.0"
+  }
+}
